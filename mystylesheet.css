@@ -11,7 +11,7 @@ body
 #content
 {
 	width: 1920px;
-	height:10205px;
+	height:10360px;
 	margin: 0 auto;
 }
 #logo img
@@ -49,7 +49,9 @@ body
 #poster img
 {
    position: relative;
-   left: 530px;
+   left: 580px;
+   height: 1000px;
+   width:750px;
 }
 #space
 {
